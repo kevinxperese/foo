@@ -1,3 +1,19 @@
 # foo
 
-This is just an empty repository to test how archiving works.
+* test1 <details><summary>Click here for details</summary>
+  * foo
+    - bar
+    - baz
+  * eggs
+    - spam
+    - ham
+  </details>
+
+* test2 <details><summary>Click here for details</summary>
+  * foo
+    - bar
+    - baz
+  * eggs
+    - spam
+    - ham
+  </details>
