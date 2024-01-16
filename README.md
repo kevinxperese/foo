@@ -1,6 +1,7 @@
 # foo
 
-* test1 <details><summary>Click here for details</summary>
+* test1
+  <details><summary>Click here for details</summary>
   * foo
     - bar
     - baz
@@ -9,7 +10,8 @@
     - ham
   </details>
 
-* test2 <details><summary>Click here for details</summary>
+* test2
+  <details><summary>Click here for details</summary>
   * foo
     - bar
     - baz
