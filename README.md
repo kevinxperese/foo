@@ -18,4 +18,4 @@
     - ham
   </details>
 
-[test hyperlink](https://kevinxperese.github.io/premium-growth-model/docs/report/baseline_2025/report.html)
+[test hyperlink](https://kevinxperese.github.io/foo/docs/report/baseline_2025/report.html)
